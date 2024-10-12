@@ -1,0 +1,18 @@
+<style>
+p{
+  font-family: Montserrat;
+  text-align : center;
+}
+.heading{
+  font-family: Montserrat;
+  text-align: center;
+  font-size: 40px;
+}
+.text{
+  font-size: 12px;
+  text-align: center;
+}
+.subtext{
+  text-deoration: underline;
+}
+</style>
